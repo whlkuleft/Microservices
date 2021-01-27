@@ -1,0 +1,16 @@
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.deps.json
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.dll
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.pdb
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.csprojAssemblyReference.cache
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.AssemblyInfoInputs.cache
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.AssemblyInfo.cs
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.csproj.CoreCompileInputs.cache
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.dll
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.pdb
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Interface.dll
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Model.dll
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.dll
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Interface.pdb
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlMicroservices.Base.Model.pdb
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.pdb
+D:\GitHub\Microservices\WhlMicroservices.Base.Service\obj\Debug\netcoreapp3.1\WhlMicroservices.Base.Service.csproj.CopyComplete

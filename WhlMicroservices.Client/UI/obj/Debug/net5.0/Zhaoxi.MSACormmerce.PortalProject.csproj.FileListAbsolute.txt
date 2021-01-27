@@ -1,0 +1,7 @@
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.csprojAssemblyReference.cache
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.AssemblyInfoInputs.cache
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.AssemblyInfo.cs
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.csproj.CoreCompileInputs.cache
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.MvcApplicationPartsAssemblyInfo.cs
+E:\BaiduDownload\20210122Architect01Course110ZXCommerce-2\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACormmerce.PortalProject\obj\Debug\net5.0\Zhaoxi.MSACormmerce.PortalProject.MvcApplicationPartsAssemblyInfo.cache

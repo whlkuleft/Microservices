@@ -1,0 +1,6 @@
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.AssemblyInfoInputs.cache
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.AssemblyInfo.cs
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.csproj.CoreCompileInputs.cache
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Microservices\WhlMicroservices.Client\obj\Debug\net5.0\WhlMicroservices.Client.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WhlMicroservices.Base.Interface\WhlMicroservices.Base.Interface.csproj" />
+    <ProjectReference Include="..\WhlMicroservices.Base.Model\WhlMicroservices.Base.Model.csproj" />
+    <ProjectReference Include="..\WhlServices.Common.Common\WhlServices.Common.Common.csproj" />
+  </ItemGroup>
+
+</Project>

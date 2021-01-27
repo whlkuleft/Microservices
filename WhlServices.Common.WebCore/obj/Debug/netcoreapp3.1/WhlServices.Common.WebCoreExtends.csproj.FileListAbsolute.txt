@@ -1,0 +1,12 @@
+D:\GitHub\Microservices\WhlServices.Common.WebCore\bin\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.deps.json
+D:\GitHub\Microservices\WhlServices.Common.WebCore\bin\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.dll
+D:\GitHub\Microservices\WhlServices.Common.WebCore\bin\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.pdb
+D:\GitHub\Microservices\WhlServices.Common.WebCore\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.dll
+D:\GitHub\Microservices\WhlServices.Common.WebCore\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.pdb
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.csprojAssemblyReference.cache
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.AssemblyInfoInputs.cache
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.AssemblyInfo.cs
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.csproj.CoreCompileInputs.cache
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.csproj.CopyComplete
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.dll
+D:\GitHub\Microservices\WhlServices.Common.WebCore\obj\Debug\netcoreapp3.1\WhlServices.Common.WebCoreExtends.pdb

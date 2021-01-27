@@ -1,0 +1,9 @@
+D:\GitHub\Microservices\WhlServices.Common.Common\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.deps.json
+D:\GitHub\Microservices\WhlServices.Common.Common\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.dll
+D:\GitHub\Microservices\WhlServices.Common.Common\bin\Debug\netcoreapp3.1\WhlServices.Common.Common.pdb
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.AssemblyInfoInputs.cache
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.AssemblyInfo.cs
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.csproj.CoreCompileInputs.cache
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.dll
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.pdb
+D:\GitHub\Microservices\WhlServices.Common.Common\obj\Debug\netcoreapp3.1\WhlServices.Common.Common.csprojAssemblyReference.cache
